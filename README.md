@@ -15,7 +15,7 @@ Eğitim Raporu
 
 Eğitim süresince gerçekleştirilen çalışmaların, teknik açıklamaların ve uygulama aşamalarının detaylı raporuna aşağıdaki Word belgesinden ulaşabilirsiniz.
 
-[Blokzincir Eğitim Raporu](./Quantum_Blokzincir_Eğitim_Raporu.docx)
+[Blokzincir Eğitim Raporu](./Quantum_Blokzincir_Egitim_Raporu.docx)
 
 
 
@@ -75,5 +75,5 @@ Dokümantasyon
 
 Proje kapsamında gerçekleştirilen çalışmaların ayrıntılı açıklamaları, uygulama adımları ve ekran görüntüleri Word formatındaki eğitim raporunda sunulmuştur.
 
-Rapor: [Quantum Blokzincir Eğitim Raporu](./Quantum_Blokzincir_Eğitim_Raporu.docx)
+Rapor: [Quantum Blokzincir Egitim Raporu](./Quantum_Blokzincir_Eğitim_Raporu.docx)
 
